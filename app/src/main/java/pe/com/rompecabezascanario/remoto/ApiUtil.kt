@@ -5,7 +5,7 @@ import pe.com.rompecabezascanario.servicios.RolService
 
 object ApiUtil {
     //reemplazar localhost por tu direccion IP
-    val API_URl="http://192.168.18.99:8095/empcanario/"
+    val API_URl="https://empresa-canario-backend.onrender.com/empcanario/"
 
     val categoriaService: CategoriaService?
         get() =RetrofitClient.getClient(API_URl)?.create(CategoriaService::class.java)

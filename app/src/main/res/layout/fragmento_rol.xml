@@ -97,7 +97,9 @@
             <ListView
                 android:id="@+id/lstRol"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:background="#AE8A5F"
+                android:listSelector="#FF6600" />
 
         </LinearLayout>
 

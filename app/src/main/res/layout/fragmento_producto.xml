@@ -203,7 +203,8 @@
                 android:id="@+id/lstPro"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:listSelector="@android:color/holo_orange_dark" />
+                android:background="#AE8A5F"
+                android:listSelector="#FF6600" />
         </LinearLayout>
     </LinearLayout>
 

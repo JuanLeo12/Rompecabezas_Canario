@@ -13,6 +13,7 @@
         android:fontFamily="sans-serif-black"
         android:text="Bienvenido a Rompecabezas Canario"
         android:textAlignment="center"
+        android:textColor="#FF7000"
         android:textSize="34sp"
         android:textStyle="bold|italic"
         app:layout_constraintEnd_toEndOf="parent"

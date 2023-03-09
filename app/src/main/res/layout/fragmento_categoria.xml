@@ -98,7 +98,8 @@
                 android:id="@+id/lstCat"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:listSelector="@android:color/holo_orange_dark" />
+                android:background="#AE8A5F"
+                android:listSelector="#FF6600" />
         </LinearLayout>
 
     </LinearLayout>

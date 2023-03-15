@@ -42,7 +42,7 @@ class FragmentoRol : Fragment() {
 
     var ft: FragmentTransaction?=null
 
-    private var _binding: FragmentoCategoria? = null
+    private var _binding: FragmentoRol? = null
 
     // This property is only valid between onCreateView and
     // onDestroyView.
